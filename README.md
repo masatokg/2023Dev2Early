@@ -1,2 +1,2 @@
-# 2023Dev3rdEarlyTeamRepo
+# 2023Dev3Early
 2023システム開発演習Ⅲ前期チームリポジトリ
